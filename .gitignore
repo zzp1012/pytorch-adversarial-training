@@ -11,3 +11,8 @@ log/
 *.so
 sftp-config.json
 read_log.py
+
+# ignore all log files
+log/
+# ignore the checkpoint files
+checkpoint/
